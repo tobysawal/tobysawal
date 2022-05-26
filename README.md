@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tobysawal
-- 👀 I’m interested in Backend / Frontend / DevOps
-- 🌱 I’m currently learning C++, HTML and CSS
-- 📫 How to reach me: sawal.toby@gmail.com
+- Hi, I’m @tobysawal
+- I’m currently working on The Odin Project's Foundations course.
+- I’m currently learning C++, HTML/CSS, and javascript.
+- sawal.toby@gmail.com
 
 <!---
 tobysawal/tobysawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

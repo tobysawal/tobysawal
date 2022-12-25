@@ -1,5 +1,5 @@
 - Hi, I’m @tobysawal
-- I’m currently working on The Odin Project's Foundations course.
+- I’m currently working on my javascript skills.
 - I’m currently learning C++, HTML/CSS, and javascript.
 - sawal.toby@gmail.com
 

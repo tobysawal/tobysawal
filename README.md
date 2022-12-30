@@ -1,6 +1,6 @@
 - Hi, I’m @tobysawal
-- I’m currently working on my javascript skills.
-- I’m currently learning C++, HTML/CSS, and javascript.
+- I’m currently working on learning ReactJS.
+- I'm specializing in front-end web development!
 - sawal.toby@gmail.com
 
 <!---
